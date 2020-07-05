@@ -1,1 +1,9 @@
 USERACTIVITY
+
+
+
+I have tested  my application on pythonanywhere platform.
+
+I have developed a custom management command called 'create_users' which is inside json_api\management\commands  directory.
+
+I have developed 2 models User1 and Activity_Period1 which are related in one to many relationship.
